@@ -3,5 +3,5 @@ Python ile Genel ve Yerel IP Adresini Gösterir
 
 
 
-https://github.com/user-attachments/assets/41c32ff9-d4db-48b3-b383-18f31d4823fb
+https://github.com/user-attachments/assets/9d67dd24-4e3b-4113-8bc9-26d975b479c3
 
